@@ -1,0 +1,4 @@
+PartID,JobID,PartNumber,PartName,Quantity,UnitPrice,Amount,InvoiceID
+1,2,23435,CV Axel,1,876.87,876.87,12345
+2,3,7777,Shop Materials,1,45,45,12345
+3,1,W187,Wheel Weights,4,12,48,12345

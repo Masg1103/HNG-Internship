@@ -1,0 +1,11 @@
+interview_id,application_id,interview_date_id,interviewer,interview_result
+1,1,1,"Emily Taylor",NULL
+2,2,2,"Michael Brown",NULL
+3,3,3,"Sarah Lee",NULL
+4,4,4,"James Wilson",NULL
+5,5,5,"Laura King",NULL
+6,6,6,"Kevin Hall",NULL
+7,7,7,"Nancy Adams",NULL
+8,8,8,"Paul Davis",NULL
+9,9,9,"Linda Miller",NULL
+10,10,10,"Tom Scott",NULL

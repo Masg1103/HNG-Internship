@@ -1,0 +1,11 @@
+location_id,city,state,country
+1,"New York",NY,USA
+2,London,England,UK
+3,Tokyo,Tokyo,Japan
+4,Berlin,Berlin,Germany
+5,Paris,Île-de-France,France
+6,Sydney,"New South Wales",Australia
+7,Mumbai,Maharashtra,India
+8,"São Paulo","São Paulo",Brazil
+9,Moscow,Moscow,Russia
+10,Beijing,Beijing,China

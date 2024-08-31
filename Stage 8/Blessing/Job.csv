@@ -1,0 +1,5 @@
+JobID,Title,Stack,Description,Requirements,Status
+1,"Frontend Developer",Frontend,"Develop user-facing interfaces.","HTML, CSS, JavaScript",Open
+2,"Backend Developer",Backend,"Build server-side logic.","Python, Django, SQL",Closed
+3,"Full-Stack Developer",Full-Stack,"Work on both frontend and backend.","HTML, CSS, JavaScript, Python",Open
+4,"Mobile Developer",Mobile,"Create mobile apps.","Swift (iOS), Kotlin (Android)",Open

@@ -1,0 +1,4 @@
+JobID,VehicleID,Description,Hours,Rate,Amount,InvoiceID
+1,1,Diagnose front wheel vibration,0.5,125,62.5,12345
+2,1,Replace front CV Axel,3.5,125,437.5,12345
+3,1,Balance tires,1,125,125,12345

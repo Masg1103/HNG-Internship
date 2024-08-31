@@ -1,0 +1,5 @@
+ApplicationID,CandidateID,JobID,ApplicationDate,Status
+1,1,1,2024-08-20,Applied
+2,2,2,2024-08-21,Interviewing
+3,3,3,2024-08-22,Hired
+4,4,4,2024-08-23,Pending

@@ -1,0 +1,5 @@
+CandidateID,Name,Email,Phone,Stack,Status,ExperienceLevel,Location
+1,"John Doe",johndoe@example.com,123-456-7890,Frontend,Available,Junior,"New York"
+2,"Jane Smith",janesmith@example.com,987-654-3210,Backend,Interviewing,Mid,London
+3,"Alice Johnson",alicejohnson@example.com,543-210-9876,Full-Stack,Hired,Senior,Tokyo
+4,"Bob Lee",boblee@example.com,432-109-8765,Mobile,Pending,Entry,Berlin

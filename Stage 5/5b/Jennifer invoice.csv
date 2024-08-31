@@ -1,0 +1,2 @@
+InvoiceID,InvoiceDate,Subtotal,SalesTaxRate,SalesTax,TotalLabour,TotalParts,Total,CustomerID,VehicleID
+12345,9/10/2023,969.87,13,207.33,625,969.87,1802.2,1,1

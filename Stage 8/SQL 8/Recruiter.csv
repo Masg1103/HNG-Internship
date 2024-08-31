@@ -1,0 +1,11 @@
+recruiter_id,full_name,email,phone_number,company_id,recruiter_status
+1,"Alice Johnson",alice.johnson@example.com,123-456-7890,1,Active
+2,"Bob Smith",bob.smith@example.com,098-765-4321,2,Active
+3,"Carol Davis",carol.davis@example.com,555-555-5555,3,Inactive
+4,"David Brown",david.brown@example.com,444-444-4444,4,Active
+5,"Eva Green",eva.green@example.com,333-333-3333,5,Active
+6,"Frank White",frank.white@example.com,222-222-2222,6,Inactive
+7,"Grace Lee",grace.lee@example.com,111-111-1111,7,Active
+8,"Henry Black",henry.black@example.com,666-666-6666,8,Active
+9,"Ivy Wilson",ivy.wilson@example.com,777-777-7777,9,Inactive
+10,"Jack Brown",jack.brown@example.com,888-888-8888,10,Active

@@ -1,0 +1,11 @@
+application_id,candidate_id,job_id,application_date_id,application_status
+1,1,1,1,Pending
+2,2,2,2,Interviewing
+3,3,3,3,Rejected
+4,4,4,4,Pending
+5,5,5,5,Hired
+6,6,6,6,Pending
+7,7,7,7,Interviewing
+8,8,8,8,Pending
+9,9,9,9,Rejected
+10,10,10,10,Hired

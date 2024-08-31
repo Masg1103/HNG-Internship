@@ -1,0 +1,11 @@
+decision_id,application_id,decision_date_id,decision,comments
+1,1,1,Pending,"Awaiting further review."
+2,2,2,Rejected,"Candidate did not meet the required criteria."
+3,3,3,Hired,"Offered the position with terms agreed."
+4,4,4,Pending,"Decision pending final review."
+5,5,5,Rejected,"Position filled with another candidate."
+6,6,6,Hired,"Accepted offer and agreed to start date."
+7,7,7,Pending,"Reviewing additional qualifications."
+8,8,8,Rejected,"No match for job requirements."
+9,9,9,Hired,"Candidate has accepted the position."
+10,10,10,Hired,"Contract signed and onboarding in progress."

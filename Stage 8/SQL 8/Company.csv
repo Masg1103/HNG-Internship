@@ -1,0 +1,11 @@
+company_id,company_name,industry,location_id
+1,TechGiant,Technology,1
+2,"FinTech Solutions",Finance,2
+3,"HealthTech Innovations",Healthcare,3
+4,RetailRetail,Retail,4
+5,"EduTech Academy",Education,5
+6,"GreenEnergy Solutions",Energy,6
+7,TravelTrek,Travel,7
+8,GamingGalaxy,Gaming,8
+9,ManufacturingCorp,Manufacturing,9
+10,ConsultingFirm,Consulting,10

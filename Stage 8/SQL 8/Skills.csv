@@ -1,0 +1,21 @@
+skill_id,skill_name
+1,HTML
+2,CSS
+3,JavaScript
+4,Python
+5,Java
+6,C++
+7,SQL
+8,React
+9,Vue.js
+10,Angular
+11,Node.js
+12,Git
+13,AWS
+14,Azure
+15,"Google Cloud Platform"
+16,"Machine Learning"
+17,"Data Analysis"
+18,"Agile Methodology"
+19,Scrum
+20,Kanban

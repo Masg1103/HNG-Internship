@@ -1,0 +1,11 @@
+candidate_id,full_name,email,phone_number,location_id,stack_id,experience_level,current_status,career_goals
+1,"John Doe",john.doe@example.com,111-111-1111,1,1,Entry,Available,"Looking for frontend roles."
+2,"Jane Roe",jane.roe@example.com,222-222-2222,2,2,Junior,Available,"Interested in backend development."
+3,"Mike Smith",mike.smith@example.com,333-333-3333,3,3,Mid,Interviewing,"Seeking full-stack opportunities."
+4,"Lucy Brown",lucy.brown@example.com,444-444-4444,4,4,Senior,Available,"Experienced in DevOps."
+5,"Tom Clark",tom.clark@example.com,555-555-5555,5,5,Entry,"Not Available","New to data science."
+6,"Emily Davis",emily.davis@example.com,666-666-6666,6,6,Junior,Available,"Looking for mobile development roles."
+7,"Adam White",adam.white@example.com,777-777-7777,7,7,Mid,Interviewing,"Experienced in QA."
+8,"Olivia Johnson",olivia.johnson@example.com,888-888-8888,8,8,Senior,Hired,"UI/UX design expert."
+9,"Sophia Lee",sophia.lee@example.com,999-999-9999,9,9,Entry,Available,"Starting out in blockchain."
+10,"Daniel Brown",daniel.brown@example.com,000-000-0000,10,10,Junior,Interviewing,"Interested in cloud computing."

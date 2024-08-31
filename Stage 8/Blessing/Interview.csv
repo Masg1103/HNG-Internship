@@ -1,0 +1,5 @@
+InterviewID,CandidateID,InterviewDate,Interviewer,Feedback,Status
+1,1,2024-08-25,"Emily Taylor","Candidate performed well in technical assessment.",Passed
+2,2,2024-08-26,"Michael Brown","Needs improvement in communication skills.",Pending
+3,3,2024-08-27,"Sarah Lee","Strong candidate with relevant experience.",Hired
+4,4,2024-08-28,"David Johnson","Could benefit from more practice in problem-solving.",Pending

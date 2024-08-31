@@ -1,0 +1,11 @@
+job_id,job_title,job_description
+1,"Frontend Developer","Build and maintain the front end of our web applications."
+2,"Backend Developer","Develop server-side logic and integrate with front end applications."
+3,"Full-Stack Developer","Work on both frontend and backend development."
+4,"Data Scientist","Analyze data to provide insights and support decision-making."
+5,"DevOps Engineer","Optimize and automate our deployment pipelines and infrastructure."
+6,"UI/UX Designer","Create and implement design strategies to improve product usability."
+7,"Product Manager","Oversee product development and strategy."
+8,"Cybersecurity Analyst","Protect our systems and data from security threats."
+9,"Cloud Architect","Design and implement cloud-based solutions."
+10,"Mobile App Developer","Create and maintain mobile applications for iOS and Android."
